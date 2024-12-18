@@ -12,6 +12,10 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
          {greeting}
       </header>
+      <div>
+        {rel}
+        {vers}
+      </div>
     </div>
   );
 }
