@@ -5,6 +5,7 @@ function App() {
   const greeting = "Это тестовый проект";
   const greeting_1 = "Это тестовый проект";
   const greeting_2 = "Это тестовый проект";
+  let x = 100;
 
   return (
     <div className="App">
