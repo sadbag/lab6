@@ -2,10 +2,9 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
-  const greeting = "Это тестовый проект";
-  const greeting_1 = "Это тестовый проект";
-  const greeting_2 = "Это тестовый проект";
-  let x = 100;
+  const greeting = "Это тестовый проект для 6 лабораторной работы";
+  const rel = "Added semantic-release"
+  const vers = 'Version - 1.0.1'
 
   return (
     <div className="App">
