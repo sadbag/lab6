@@ -13,7 +13,8 @@ function App() {
          {greeting}
       </header>
       <div>
-       
+        {rel}
+        {vers}
       </div>
     </div>
   );
